@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94a42146Fab15a7EC00a8Bd95720cF0baDa65B42 ",
+      "address": "0x94a42146Fab15a7EC00a8Bd95720cF0baDa65B42",
       "name": "BAKE",
       "symbol": "BAKE",
       "decimals": 18,
@@ -41,7 +41,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x0eF680193492C1cc0a34a20411bA31eeA3298eeA ",
+      "address": "0x0eF680193492C1cc0a34a20411bA31eeA3298eeA",
       "name": "XRP",
       "symbol": "XRP",
       "decimals": 18,
@@ -49,7 +49,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x9D575ba54c57763d3b1e42957eBFE9D791DeeD39 ",
+      "address": "0x9D575ba54c57763d3b1e42957eBFE9D791DeeD39",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 6,
@@ -65,7 +65,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x3180356fa8082efEEf9523BE654c162242E4dcC0 ",
+      "address": "0x3180356fa8082efEEf9523BE654c162242E4dcC0",
       "name": "WBNB",
       "symbol": "WBNB",
       "decimals": 8
